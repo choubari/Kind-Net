@@ -50,6 +50,7 @@ public class DialogueManager : MonoBehaviour {
         	EndDialogue();
 			return;
 		}
+		print(cameras[dialogueCount+1]);
 		changeCamera();
 		string sentence = sentences.Dequeue();
 		StopAllCoroutines();

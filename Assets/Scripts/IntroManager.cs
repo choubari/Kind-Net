@@ -82,3 +82,20 @@ public class IntroManager : MonoBehaviour {
 // People take the high road by applying the concept of “treat others as you would like to be treated” to their actions online.
 
 // People take the high road by applying the concept of “treat others as you would like to be treated” to their actions online.
+
+// --------------------
+
+/*
+2- Itʼs important to remind ourselves that behind every username and avatar thereʼs a real person with real feelings, and we should treat them as we would want to be treated. 
+
+1- Whether standing up for others, reporting something hurtful, or ignoring something to keep it from being amplified even more, you have a variety of strategies to choose from depending on the situation. With a little kindness, anyone can make a huge difference in turning bad situations around.
+
+3-
+-Use the power of the Internet to spread positivity.
+-Stop the spread of harmful or untrue messages by not passing them on to others.
+-Respect others’ differences.
+
+-Block mean-spirited or inappropriate behavior online.
+-Make an effort to provide support to those being bullied.
+
+*/

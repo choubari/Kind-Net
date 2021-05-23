@@ -39,7 +39,14 @@ public class PlayerController : MonoBehaviour
 
     public CinemachineVirtualCamera mainCamera;
     public CinemachineVirtualCamera endCamera;
+
+    public Canvas endDialogueCard;
     // Use this for initialization
+    void Awake(){
+        endDialogueCard.transform.GetChild(0).gameObject.SetActive(false);
+    }
+
+
     void Start()
     {
         t = transform;
@@ -150,6 +157,8 @@ public class PlayerController : MonoBehaviour
             //Destroy (col.gameObject);
         }
         if (col.gameObject.tag == "end") {
+
+            endDialogueCard.transform.GetChild(0).gameObject.SetActive(true);
             endCamera.gameObject.SetActive(true);
             mainCamera.gameObject.SetActive(false);    
         }
