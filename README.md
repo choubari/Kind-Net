@@ -8,7 +8,7 @@
   <img  src="Screenshots/home.PNG">
 </p>
 
-The digital world creates new challenges and opportunities for social interaction, for kids and all the rest of us.
+The digital world creates new challenges and opportunities for social interaction, for kids and all the rest of us. Kind Net aims to teach children impacts of Cyberbullying and fighting it by spreading kindness.
 
 <p align="center">
   <img  src="Screenshots/dialogue1.PNG">
