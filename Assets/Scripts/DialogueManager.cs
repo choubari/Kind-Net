@@ -19,6 +19,8 @@ public class DialogueManager : MonoBehaviour {
 	public CinemachineVirtualCamera homeCamera;
 	public Canvas dialogueCard;
         
+
+    
 	// Use this for initialization
 	void Start () {
 
