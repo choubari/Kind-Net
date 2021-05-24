@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+
 using Cinemachine;
+
 
 public class IntroManager : MonoBehaviour {
 
@@ -11,7 +13,7 @@ public class IntroManager : MonoBehaviour {
 	public Text dialogueText;
 	public Dialogue dialogue;
 	public string sceneName;
-
+	// sentences for dialogue
 	private Queue<string> sentences;
 
 	// Use this for initialization

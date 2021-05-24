@@ -17301,12 +17301,12 @@ PrefabInstance:
     - target: {fileID: 8712170370195578250, guid: 940cfcfd2205b204a8bd9461a9fa43e8,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 257
+      value: 218
       objectReference: {fileID: 0}
     - target: {fileID: 8712170370195578250, guid: 940cfcfd2205b204a8bd9461a9fa43e8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -41
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 8712170370195578250, guid: 940cfcfd2205b204a8bd9461a9fa43e8,
         type: 3}
