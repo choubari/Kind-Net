@@ -14,8 +14,20 @@ The digital world creates new challenges and opportunities for social interactio
   <img  src="Screenshots/dialogue1.PNG">
 <p>
 
+# :tada: Download:
 
-## Screenshots 
+We hit 10K+ Downloads on PlayStore :
+
+This simple game which was developed as an academic project. Download it and test it via Google Play by clicking the button below. 
+
+<p align="center">
+ <a href='https://play.google.com/store/apps/details?id=com.choubapp.KindNet'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/ width="300px" heigh="100px" ></a>
+
+Or check the [other releases](https://github.com/choubari/Kind-Net/releases).
+
+Ps: I'm not looking to update it with new levels or features.
+
+# Screenshots 
 
 <br>
 <p align="center">
